@@ -23,7 +23,7 @@ console.log("Maximum:", max);
 
 {
     // Pass values as: node script.js 25 4
-let day = parseInt(process.argv[2]);
+let day = parseInt(process.argv[2]);  
 let month = parseInt(process.argv[3]);
 
 let isBetween = false;
